@@ -1,7 +1,10 @@
+head {
+	text-align: left;
+	font-family: 'Roboto', sans-serif;
 body {
 	background: #ffffff;
 	color: #000000;
-	text-align: left;
+	text-align: centre;
 	font-family: 'Roboto', sans-serif;
 	font-size:16px;
 
@@ -38,9 +41,13 @@ footer {
 }
 
 .topnav{
-	position:fixed;
-	top:0;
-	background-color: #DDDDDD;
+div.relative {
+    position: relative;
+    left: 10px;
+    
+	
+
+	background-color: #dddddd;
 }
 
 .topnav a {
