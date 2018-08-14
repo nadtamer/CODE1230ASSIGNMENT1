@@ -23,8 +23,9 @@ p {
 
 footer {
 	position:fixed;
+	color: #D3D3D3
 	bottom:0;
-	font-size: 14px;
+	font-size: 10px;
 	padding: 1%;
 }
 
@@ -38,7 +39,7 @@ footer {
 	float:left;
 	display:block;
 	color:#001f3f;
-	text-align: center;
+	text-align: right;
 	padding:14px 16px;
 	text-decoration: none;
 	font-size:20px;
