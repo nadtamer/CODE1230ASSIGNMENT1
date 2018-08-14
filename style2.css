@@ -1,14 +1,14 @@
 body {
 	background: #ffffff;
 	color: #000000;
-	text-align: left;
+	text-align: center;
 	font-family: 'Roboto', sans-serif;
 	font-size:18px;
 
 }
 
 h1 {
-        text-align: left;
+        text-align: center;
 	border-style: solid;
 	border-width: 10px;
 	border-color: #ffffff;
@@ -44,7 +44,7 @@ div.relative {
 }
 
 .topnav a {
-	float:left;
+	float:center;
 	display:block;
 	color:#001f3f;
 	text-align: right;
