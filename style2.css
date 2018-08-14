@@ -44,7 +44,7 @@ div.relative {
 }
 
 .topnav a {
-	float:center;
+	float:left;
 	display:block;
 	color:#001f3f;
 	text-align: right;
