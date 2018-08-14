@@ -40,6 +40,15 @@ footer {
 	padding: 1%;
 }
 
+.topnav{
+div.relative {
+    position: relative;
+    left: 10px;
+    
+	
+
+	background-color: #dddddd;
+}
 
 .topnav a {
 	float:centre;
