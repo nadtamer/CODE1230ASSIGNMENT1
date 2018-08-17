@@ -43,15 +43,23 @@ div.relative {
 	background-color: #000000;
 }
 	
-.topnav a:link, a:visited {
-    background-color: #f44336;
-    color: white;
-    padding: 14px 25px;
-    text-align: center; 
-    text-decoration: none;
-    display: inline-block;
+.topnav{
+	position:relative;
+	top:0;
+	background-color: #DDDDDD;
 }
 
-.topnav a:hover, a:active {
-    background-color: red;
+.topnav a {
+	float:center;
+	display:block;
+	color:#000000;
+	text-align: center;
+	padding:14px 16px;
+	text-decoration: none;
+	font-size:20px;
+}
+
+.topnav a:hover {
+	background-color: #000000;
+	color: #DDDDDD;
 }
