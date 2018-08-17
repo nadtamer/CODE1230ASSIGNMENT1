@@ -42,7 +42,11 @@ div.relative {
 
 	background-color: #dddddd;
 }
-
+.topnav a:link {
+	color: inherit 
+	text-decoration: none;
+	}
+	
 .topnav a {
 	float:center;
 	display:block;
